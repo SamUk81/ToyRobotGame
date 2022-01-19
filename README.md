@@ -1,5 +1,5 @@
 # Toy Robot Game
-This is console application is to allow for a simulation of a toy robot moving on a 6 x 6 square tabletop. This application was built using C# .NET 5.0. 
+This is console application is to allow for a simulation of a toy robot moving on a 6 x 6 square tabletop. This application was built using C# framework .NET 5.0. 
 
 The code consists of three projects.
 1. ToyRobotGame - The main console application, which should be your startup project.
