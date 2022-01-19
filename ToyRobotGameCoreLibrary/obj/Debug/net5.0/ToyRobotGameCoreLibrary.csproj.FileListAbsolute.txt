@@ -1,0 +1,11 @@
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\bin\Debug\net5.0\ToyRobotGameCoreLibrary.deps.json
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\bin\Debug\net5.0\ToyRobotGameCoreLibrary.dll
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\bin\Debug\net5.0\ref\ToyRobotGameCoreLibrary.dll
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\bin\Debug\net5.0\ToyRobotGameCoreLibrary.pdb
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\obj\Debug\net5.0\ToyRobotGameCoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\obj\Debug\net5.0\ToyRobotGameCoreLibrary.AssemblyInfoInputs.cache
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\obj\Debug\net5.0\ToyRobotGameCoreLibrary.AssemblyInfo.cs
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\obj\Debug\net5.0\ToyRobotGameCoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\obj\Debug\net5.0\ToyRobotGameCoreLibrary.dll
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\obj\Debug\net5.0\ref\ToyRobotGameCoreLibrary.dll
+C:\Users\sam.khanjar\source\repos\ToyRobotGame\ToyRobotGameCoreLibrary\obj\Debug\net5.0\ToyRobotGameCoreLibrary.pdb
